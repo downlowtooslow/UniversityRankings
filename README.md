@@ -4,7 +4,7 @@ This interactive visualization was created using **R** to explore and rank unive
 
 https://hulkbogan.shinyapps.io/assignment3/
 
-
+![Alt text](images/unirankings.jpg)
 
 ## Features
 
